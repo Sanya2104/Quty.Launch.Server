@@ -1,9 +1,9 @@
 {
-  "version": "0.0.5",
-  "versionCode": 2,
-  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.5.apk",
-  "changelog": "Что нового в версии 0.0.5:\n• Добавлена возможность OTA обновления\n• Улучшена производительность\n• Исправлены баги",
+  "version": "0.0.6",
+  "versionCode": 4,
+  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.6.apk",
+  "changelog": "Что нового в версии 0.0.6:\n• Добавлена возможность OTA обновления\n• Улучшена производительность\n• Исправлены баги",
   "releaseDate": "2026-03-09",
   "isCritical": false,
-  "size": "8.0 MB"
+  "size": "12.7 MB"
 }
