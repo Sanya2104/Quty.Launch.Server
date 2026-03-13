@@ -1,9 +1,9 @@
 {
   "version": "0.0.8",
-  "versionCode": 11,
+  "versionCode": 12,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.8.apk",
-  "changelog": "Багфикс WebView\nПоддержка всех Web фреймворков",
-  "releaseDate": "13-03-2026",
-  "isCritical": true,
-  "size": "12,27 MB"
+  "changelog": "Added MinStyle Theme",
+  "releaseDate": "14-03-2026",
+  "isCritical": false,
+  "size": "12,31 MB"
 }
