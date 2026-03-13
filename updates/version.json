@@ -1,9 +1,9 @@
 {
   "version": "0.0.7",
-  "versionCode": 9,
+  "versionCode": 10,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.7.apk",
-  "changelog": "Допиливание OTA обновлений",
-  "releaseDate": "10-03-2026",
+  "changelog": "Багфикс WebView\nПоддержка Web Frameworks",
+  "releaseDate": "13-03-2026",
   "isCritical": true,
-  "size": "12,20 MB"
+  "size": "12,27 MB"
 }
