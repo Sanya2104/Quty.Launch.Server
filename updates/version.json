@@ -1,9 +1,9 @@
 {
-  "version": "0.0.8",
-  "versionCode": 13,
-  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.8.apk",
-  "changelog": "Тест Vue3 темы MinStyle",
-  "releaseDate": "14-03-2026",
-  "isCritical": false,
+  "version": "0.0.9",
+  "versionCode": 14,
+  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.9.apk",
+  "changelog": "Исправление багов на Android 16 (API 36)",
+  "releaseDate": "16-03-2026",
+  "isCritical": true,
   "size": "12,52 MB"
 }
