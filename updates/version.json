@@ -1,9 +1,9 @@
 {
   "version": "0.0.9",
-  "versionCode": 14,
+  "versionCode": 15,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.9.apk",
-  "changelog": "Исправление багов на Android 16 (API 36)",
-  "releaseDate": "16-03-2026",
-  "isCritical": true,
-  "size": "12,52 MB"
+  "changelog": "Тесты темы Vue3 (MinStyle)",
+  "releaseDate": "17-03-2026",
+  "isCritical": false,
+  "size": "12,55 MB"
 }
