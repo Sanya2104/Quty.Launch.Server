@@ -1,9 +1,9 @@
 {
   "version": "0.0.10",
-  "versionCode": 16,
+  "versionCode": 17,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.10.apk",
-  "changelog": "Темы теперь могут задавать предпочтительную ориентацию экрана",
+  "changelog": "Багфиксы UI",
   "releaseDate": "18-03-2026",
-  "isCritical": true,
+  "isCritical": false,
   "size": "12,59 MB"
 }
