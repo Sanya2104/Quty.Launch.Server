@@ -1,9 +1,9 @@
 {
   "version": "0.0.10",
-  "versionCode": 17,
+  "versionCode": 18,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.10.apk",
-  "changelog": "Багфиксы UI",
-  "releaseDate": "18-03-2026",
+  "changelog": "Добавлена поддержка .qt тем",
+  "releaseDate": "20-03-2026",
   "isCritical": false,
   "size": "12,59 MB"
 }
