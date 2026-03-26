@@ -1,9 +1,9 @@
 {
   "version": "0.0.13",
-  "versionCode": 31,
+  "versionCode": 32,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.13.apk",
-  "changelog": "Оптимизация и добавление функций статус-бара )))",
-  "releaseDate": "25-03-2026",
+  "changelog": "Исправление багов и улучшение производительности",
+  "releaseDate": "27-03-2026",
   "isCritical": false,
   "size": "12,47 MB"
 }
