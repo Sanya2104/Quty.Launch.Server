@@ -1,9 +1,9 @@
 {
-  "version": "0.0.13",
-  "versionCode": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.13.apk",
-  "changelog": "Исправление багов и улучшение производительности",
+  "version": "0.0.14",
+  "versionCode": 36,
+  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.14.apk",
+  "changelog": "Добавлен функционал отображения Bluetooth подключения",
   "releaseDate": "29-03-2026",
-  "isCritical": false,
+  "isCritical": true,
   "size": "13,58 MB"
 }
