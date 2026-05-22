@@ -1,9 +1,9 @@
 {
   "version": "0.0.19",
-  "versionCode": 64,
+  "versionCode": 65,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.19.apk",
-  "changelog": "Уровень громкости на FYT устройствах\nОптимизация\nБагфиксы",
+  "changelog": "Исправление багов и улучшение производительности",
   "releaseDate": "22-05-2026",
-  "isCritical": true,
+  "isCritical": false,
   "size": "14,03 MB"
 }
