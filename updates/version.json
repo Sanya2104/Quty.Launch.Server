@@ -1,9 +1,9 @@
 {
-  "version": "0.0.31",
-  "versionCode": 121,
-  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.31.apk",
-  "changelog": "Исправление багов и улучшение производительности",
-  "releaseDate": "23-06-2026",
-  "isCritical": false,
-  "size": "14,42 MB"
+  "version": "0.0.32",
+  "versionCode": 122,
+  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.32.apk",
+  "changelog": "Новая тема Nebula\nУдаление тем MinStyle и Fresh",
+  "releaseDate": "24-06-2026",
+  "isCritical": true,
+  "size": "13,09 MB"
 }
