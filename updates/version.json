@@ -1,9 +1,9 @@
 {
   "version": "0.0.33",
-  "versionCode": 126,
+  "versionCode": 127,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.33.apk",
-  "changelog": "Новая тема оформления QutyOS",
+  "changelog": "Исправление багов и улучшение производительности",
   "releaseDate": "08-07-2026",
   "isCritical": true,
-  "size": "14,12 MB"
+  "size": "14,13 MB"
 }
