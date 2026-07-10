@@ -1,9 +1,9 @@
 {
-  "version": "0.0.34",
-  "versionCode": 131,
-  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.34.apk",
-  "changelog": "Добавлен Строгий режим",
+  "version": "0.0.35",
+  "versionCode": 132,
+  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.35.apk",
+  "changelog": "Добавлена возможность скачивать apk файл обновления",
   "releaseDate": "10-07-2026",
   "isCritical": true,
-  "size": "14,12 MB"
+  "size": "14,13 MB"
 }
