@@ -1,9 +1,9 @@
 {
   "version": "0.0.119",
-  "versionCode": 374,
+  "versionCode": 375,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.119.apk",
   "changelog": "Исправление багов и улучшение производительности",
   "releaseDate": "16-08-2026",
-  "isCritical": true,
+  "isCritical": false,
   "size": "15,98 MB"
 }
