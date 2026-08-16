@@ -1,0 +1,21 @@
+﻿{
+  "shells": [
+    {
+      "id": "QutyAuto",
+      "name": "QutyAuto",
+      "displayName": "QutyAuto",
+      "author": "QutyTeam",
+      "version": "0.0.4",
+      "description": "Современный минималистичный лаунчер",
+      "previewUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/store/previews/QutyAuto.png",
+      "screenshots": [],
+      "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/store/shells/QutyAuto.qutyshell",
+      "fileSize": "2.5 MB",
+      "downloads": 1250,
+      "isPremium": false,
+      "tags": ["минимализм", "светлый", "современный"],
+      "minQutyLaunchVersion": "0.0.0",
+      "datePublished": "2026-08-01"
+    }
+  ]
+}
