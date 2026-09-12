@@ -1,9 +1,9 @@
 {
   "version": "0.0.141",
-  "versionCode": 559,
+  "versionCode": 560,
   "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.141.apk",
-  "changelog": "Градиентные цветовые схемы",
+  "changelog": "Исправление багов и улучшение производительности",
   "releaseDate": "12-09-2026",
-  "isCritical": false,
+  "isCritical": true,
   "size": "16,13 MB"
 }
