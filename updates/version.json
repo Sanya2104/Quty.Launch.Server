@@ -1,9 +1,9 @@
 {
-  "version": "0.0.145",
-  "versionCode": 586,
-  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.145.apk",
-  "changelog": "Исправление багов и улучшение производительности",
+  "version": "0.0.146",
+  "versionCode": 587,
+  "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/updates/apk/Quty.Launch-0.0.146.apk",
+  "changelog": "Цветовая схема в Настройках - Персонализация",
   "releaseDate": "01-10-2026",
-  "isCritical": false,
-  "size": "15,82 MB"
+  "isCritical": true,
+  "size": "15,83 MB"
 }
