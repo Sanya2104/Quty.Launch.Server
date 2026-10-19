@@ -1,0 +1,40 @@
+name: Generate store shells.json
+
+on:
+  push:
+    paths:
+      - 'store/shells/**'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # ВАЖНО: нужна вся история, чтобы получить дату коммита для каждой папки
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate shells.json
+        run: python .github/scripts/generate_shells_json.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add store/shells.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: auto-generate shells.json"
+            git push
+          fi

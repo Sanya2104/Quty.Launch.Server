@@ -1,0 +1,11 @@
+{
+    "name": "QutyAuto",
+    "author": "QutyTeam",
+    "version": "0.0.5",
+    "preview": "preview.png",
+    "orientation": "sensor",
+    "repoUrl": "https://github.com/Sanya2104/Quty.Launch.Shell.QutyAuto",
+    "telegram": "https://t.me/QutyLaunch",
+    "minQutyLaunchVersion": "0.0.0",
+    "apiMethods": ["GetApps", "LaunchApp", "GetStatusBar"]
+}
