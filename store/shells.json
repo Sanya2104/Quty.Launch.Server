@@ -1,18 +1,19 @@
 {
-  "shells": [
-    {
-      "id": "QutyAuto",
-      "name": "QutyAuto",
-      "displayName": "QutyAuto",
-      "author": "QutyTeam",
-      "version": "0.0.5",
-      "description": "Современный минималистичный лаунчер",
-      "previewUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/store/previews/QutyAuto.png",
-      "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/store/shells/QutyAuto.qutyshell",
-      "fileSize": "2.5 MB",
-      "tags": ["минимализм", "светлый", "современный"],
-      "minQutyLaunchVersion": "0.0.0",
-      "datePublished": "2026-10-01"
-    }
-  ]
+    "shells": [
+        {
+            "id": "QutyAuto",
+            "name": "QutyAuto",
+            "displayName": "QutyAuto",
+            "author": "QutyTeam",
+            "version": "0.0.5",
+            "previewUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/store/shells/QutyAuto/preview.png",
+            "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/store/shells/QutyAuto/QutyAuto.qutyshell",
+            "fileSize": "2.2 MB",
+            "minQutyLaunchVersion": "0.0.0",
+            "orientation": "sensor",
+            "repoUrl": "https://github.com/Sanya2104/Quty.Launch.Shell.QutyAuto",
+            "telegram": "https://t.me/QutyLaunch",
+            "datePublished": "2026-10-19"
+        }
+    ]
 }
