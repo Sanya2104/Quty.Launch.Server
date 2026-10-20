@@ -14,6 +14,21 @@
             "repoUrl": "https://github.com/Sanya2104/Quty.Launch.Shell.QutyAuto",
             "telegram": "https://t.me/QutyLaunch",
             "datePublished": "2026-10-19"
+        },
+        {
+            "id": "QutyLauncher",
+            "name": "QutyLauncher",
+            "displayName": "QutyLauncher",
+            "author": "QutyTeam",
+            "version": "0.0.23",
+            "previewUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/store/shells/QutyLauncher/preview.png",
+            "downloadUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Server/main/store/shells/QutyLauncher/QutyLauncher.qutyshell",
+            "fileSize": "997.8 KB",
+            "minQutyLaunchVersion": "0.0.0",
+            "orientation": "landscape",
+            "repoUrl": "https://raw.githubusercontent.com/Sanya2104/Quty.Launch.Theme.QutyOS/main/",
+            "telegram": null,
+            "datePublished": "2026-10-20"
         }
     ]
 }
